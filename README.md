@@ -108,7 +108,7 @@ Ericsson Component-Based Architecture (5G Systems)
 
 ## Connect With Me
 Email: **manojp0299@gmail.com**  
-LinkedIn: *(add your link)*  
+LinkedIn: *[(add your link)](https://www.linkedin.com/in/manoj-pasunoori-b5673a190/)*  
 Portfolio: **https://manojpasunoori.github.io**  
 GitHub: **https://github.com/manojpasunoori**
 
