@@ -16,6 +16,26 @@ I bring a strong combination of **software engineering**, **cloud/DevOps**, and 
 
 ---
 
+# Professional Experience
+
+## Software Engineer Intern — DoJoGa (2025–Present)
+- Built backend microservices using FastAPI and Spring Boot  
+- Automated testing, documentation, and code reviews using AI tools  
+- Deployed applications on **AWS & Azure Kubernetes clusters**  
+- Implemented CI/CD pipelines reducing deployment time by 20%  
+- Enhanced observability using Grafana and Prometheus
+
+---
+
+## Software Engineer — Tata Consultancy Services (2020–2025)
+**Ericsson Component-Based Architecture (5G Systems)**
+
+- Developed FCAPS modules for 5G OSS/BSS systems  
+- Automated monitoring, logging, and configuration workflows  
+- Reduced operational overhead by 30% through automation  
+- Containerized services using Docker on SUSE SLES + Jenkins  
+- Integrated with ServiceNow APIs for incident automation  
+- Collaborated with global engineering teams ensuring scalable and secure deployments
 # Core Technical Skills
 
 ### Programming
@@ -82,28 +102,6 @@ Developer Productivity Tools (Windsurf, Cursor)
 - Identified profitable segments and KPIs  
 **Result:** Helped support data-informed decision-making.
 
----
-
-# Professional Experience
-
-## Software Engineer Intern — DoJoGa (2025–Present)
-- Built backend microservices using FastAPI and Spring Boot  
-- Automated testing, documentation, and code reviews using AI tools  
-- Deployed applications on **AWS & Azure Kubernetes clusters**  
-- Implemented CI/CD pipelines reducing deployment time by 20%  
-- Enhanced observability using Grafana and Prometheus
-
----
-
-## Software Engineer — Tata Consultancy Services (2020–2025)
-**Ericsson Component-Based Architecture (5G Systems)**
-
-- Developed FCAPS modules for 5G OSS/BSS systems  
-- Automated monitoring, logging, and configuration workflows  
-- Reduced operational overhead by 30% through automation  
-- Containerized services using Docker on SUSE SLES + Jenkins  
-- Integrated with ServiceNow APIs for incident automation  
-- Collaborated with global engineering teams ensuring scalable and secure deployments
 
 ---
 
