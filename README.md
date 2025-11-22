@@ -36,13 +36,14 @@ I bring a strong combination of **software engineering**, **cloud/DevOps**, and 
 - Containerized services using Docker on SUSE SLES + Jenkins  
 - Integrated with ServiceNow APIs for incident automation  
 - Collaborated with global engineering teams ensuring scalable and secure deployments
-# Core Technical Skills
+
 ---
 
 # Education
 - **Master of Science**, **Information Systems**, The University of Texas at Arlington - (2023-2025)
 - **Bachelor of Technology**, **Electronics and Instrumentation Engineering**, JNTUH Hyderabad - (2016-2020)
-
+  
+# Core Technical Skills
 ---
 ### Programming
 Python • Java • C++ • SQL • Bash
