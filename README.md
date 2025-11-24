@@ -2,12 +2,12 @@
 
 I’m **Manoj Pasunoori**, a Software Engineer specializing in **cloud-native backend systems**, **DevOps automation**, and **ML/AI-driven applications**. With hands-on experience in both startup and enterprise environments, I build scalable services, design automated CI/CD pipelines, and deploy production-grade machine learning systems.
 
-I bring a strong combination of **software engineering**, **cloud/DevOps**, and **AI engineering**, with a track record of improving system performance, reducing operational overhead, and delivering high-impact products.
+I bring a strong combination of **software engineering**, **cloud/DevOps**, and **AI engineering**, **Platform Engineering**, with a track record of improving system performance, reducing operational overhead, and delivering high-impact products.
 
 ---
 
 # Summary at a Glance
-- 3+ years of software engineering experience across **distributed systems**, **DevOps**, and **ML pipelines**
+- 5+ years of software engineering experience across **distributed systems**, **DevOps**, **Ericsson's Product Development** and **ML pipelines**
 - Strong experience with **FastAPI, Spring Boot, Docker, Kubernetes, Terraform, AWS, Azure**
 - Built **real-time ML systems**, microservices, cloud infrastructure, and automated deployment pipelines
 - Hands-on experience in **monitoring, observability, reliability**, and performance tuning
@@ -118,6 +118,7 @@ Developer Productivity Tools (Windsurf, Cursor)
 - Silver Medalist — Project Expo (JNTUH)  
 - Best Performer — TCS (Ericsson COM Deployment Team)  
 - COVID-19 Awareness Volunteer — Youngistaan Foundation
+- Gold Medalist for Academic Excellence - Bachelor of Technology
 
 ---
 
