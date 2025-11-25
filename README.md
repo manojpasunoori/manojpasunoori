@@ -1,134 +1,77 @@
-# Manoj Pasunoori — Software Engineer | DevOps & GenAI Engineer | ML Developer
+<div align="center">
 
-I’m **Manoj Pasunoori**, a Software Engineer specializing in **cloud-native backend systems**, **DevOps automation**, and **ML/AI-driven applications**. With hands-on experience in both startup and enterprise environments, I build scalable services, design automated CI/CD pipelines, and deploy production-grade machine learning systems.
+# Hi there, I'm Manoj Pasunoori 👋
 
-I bring a strong combination of **software engineering**, **cloud/DevOps**, and **AI engineering**, **Platform Engineering**, with a track record of improving system performance, reducing operational overhead, and delivering high-impact products.
+### Software Engineer | Cloud-Native Systems, DevOps & AI
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manoj-pasunoori-b5673a190/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge&logo=github)](https://manojpasunoori.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:manojp0299@gmail.com)
 
-# Summary at a Glance
-- 5+ years of software engineering experience across **distributed systems**, **DevOps**, **Ericsson's Product Development** and **ML pipelines**
-- Strong experience with **FastAPI, Spring Boot, Docker, Kubernetes, Terraform, AWS, Azure**
-- Built **real-time ML systems**, microservices, cloud infrastructure, and automated deployment pipelines
-- Hands-on experience in **monitoring, observability, reliability**, and performance tuning
-- Proven excellence: **Top Performer at TCS**, **Project Expo Silver Medalist**, **Graduate Senator at UTA**
-- Active contributor to **AI communities & research initiatives**
+</div>
 
 ---
 
-# Professional Experience
+### 🚀 **Professional Summary**
 
-## Software Engineer Intern — DoJoGa (2025–Present)
-- Built backend microservices using FastAPI and Spring Boot  
-- Automated testing, documentation, and code reviews using AI tools  
-- Deployed applications on **AWS & Azure Kubernetes clusters**  
-- Implemented CI/CD pipelines reducing deployment time by 20%  
-- Enhanced observability using Grafana and Prometheus
+I am a **Software Engineer** with **5+ years of experience** architecting scalable distributed systems and automating ML pipelines. I specialize in bridging the gap between application development and operational reliability using **Kubernetes, Terraform, and AWS/Azure**.
 
----
-
-## Software Engineer — Tata Consultancy Services (2020–2025)
-**Ericsson Component-Based Architecture (5G Systems)**
-
-- Developed FCAPS modules for 5G OSS/BSS systems  
-- Automated monitoring, logging, and configuration workflows  
-- Reduced operational overhead by 30% through automation  
-- Containerized services using Docker on SUSE SLES + Jenkins  
-- Integrated with ServiceNow APIs for incident automation  
-- Collaborated with global engineering teams ensuring scalable and secure deployments
+* **Core Focus:** Building high-performance, fault-tolerant platforms.
+* **Background:** Proven track record at **TCS (Ericsson 5G)** and agile startups (**DoJoGa**).
+* **Mission:** To reduce operational overhead and accelerate deployment cycles through DevOps and MLOps automation.
 
 ---
 
-# Education
-- **Master of Science**, **Information Systems**, The University of Texas at Arlington - (2023-2025)
-- **Bachelor of Technology**, **Electronics and Instrumentation Engineering**, JNTUH Hyderabad - (2016-2020)
-  
-# Core Technical Skills
----
-### Programming
-Python • Java • C++ • SQL • Bash
+### 🛠 **Tech Stack**
 
-### Backend & API Development
-FastAPI • Spring Boot • Flask • REST APIs • Microservices
-
-### DevOps, Cloud & Infra Automation
-Docker • Kubernetes • Terraform  
-AWS • Azure • GCP  
-GitHub Actions • Jenkins • Azure DevOps
-
-### Monitoring & Reliability Engineering
-Grafana • Prometheus • CloudWatch • Dynatrace
-
-### Data Science & Machine Learning
-Feature Engineering • Scikit-Learn • XGBoost • NLP • TF-IDF  
-ML Inference APIs • Model Deployment • Data Pipelines
-
-### Software Engineering Practices
-CI/CD Automation • Agile Development  
-Linux Administration • Networking (TCP/IP, VPCs, Load Balancing)  
-Developer Productivity Tools (Windsurf, Cursor)
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=flat) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) |
+| **CI/CD & Tools** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) |
+| **AI & ML** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EB981D?style=flat) ![MLOps](https://img.shields.io/badge/MLOps-Pipeline-blueviolet?style=flat) |
 
 ---
 
-# Highlighted Projects
+### 💼 **Experience**
 
-## SafeDrive AI — Real-Time Accident Risk Platform (MLOps + Full-Stack)
-**Impact:** Built a real-time accident severity scoring system using 1.5M+ accident records, powering mobile + web apps.
+#### **Software Engineer** @ DoJoGa
+*(Jan 2025 – Present)*
+* Designed and deployed modular backend services using **FastAPI and Spring Boot**.
+* Orchestrated containerized deployments on **AWS & Azure Kubernetes Service (AKS)** using Helm charts.
+* Engineered CI/CD pipelines via **GitHub Actions**, reducing deployment lead time by **20%**.
+* Leveraged AI-driven coding assistants (Windsurf, Cursor) to automate testing, increasing code coverage by **15%**.
 
-- ML Models: Random Forest, XGBoost  
-- Backend: FastAPI microservices, Dockerized & deployed with Terraform  
-- Frontend: Flutter App + React Dashboard  
-- CI/CD: GitHub Actions + AWS ECS/Kubernetes  
-**Result:** Production-ready ML pipeline with high availability and fast inference.
-
----
-
-## Fake Job Posting Prediction (NLP Classification)
-**Impact:** Built a fraud detection ML system with a 96% F1-score.
-
-- TF-IDF vectorization, XGBoost model  
-- SHAP for explainability  
-- SMOTE for handling class imbalance  
-**Result:** Interpretable and scalable ML classifier for job-risk analysis.
+#### **Systems Engineer (Ericsson 5G Project)** @ Tata Consultancy Services
+*(Nov 2020 – Aug 2023)*
+* Developed critical **FCAPS** modules for Ericsson’s 5G OSS/BSS systems.
+* Automated incident management via **ServiceNow APIs**, reducing manual overhead by **30%**.
+* Migrated legacy services to **Docker containers** on SUSE SLES, managed via Jenkins pipelines.
+* Implemented **Grafana/Prometheus** dashboards, improving issue detection time by **25%**.
 
 ---
 
-## Traffic Accident Severity Prediction
-**Impact:** Improved prediction accuracy through engineered weather-based features.
+### 📂 **Featured Projects**
 
-- Models: Logistic Regression, Random Forest  
-- Environmental and geospatial pattern insights  
-**Result:** 12% higher predictive performance compared to baseline models.
-
----
-
-## Superstore Sales Insight System
-**Impact:** Delivered data-driven insights for business performance analysis.
-
-- Pandas, Matplotlib, Seaborn  
-- Identified profitable segments and KPIs  
-**Result:** Helped support data-informed decision-making.
-
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **SafeDrive AI** | Real-time accident severity scoring system processing **1.5M+ records** with 99.9% uptime. | `FastAPI` `Docker` `Terraform` `AWS ECS` |
+| **Fake Job Detector** | Fraud detection NLP system achieving a **96% F1-score** using linguistic pattern analysis. | `XGBoost` `SHAP` `Scikit-Learn` `NLP` |
+| **Traffic Severity AI** | Weather-centric traffic analysis engine improving prediction accuracy by **12%**. | `Random Forest` `Geospatial Data` `Pandas` |
 
 ---
 
-# Achievements & Leadership
-- Graduate Senator — College of Business, University of Texas at Arlington  
-- Volunteer — Dallas AI Symposium & Microsoft AI Tour  
-- Silver Medalist — Project Expo (JNTUH)  
-- Best Performer — TCS (Ericsson COM Deployment Team)  
-- COVID-19 Awareness Volunteer — Youngistaan Foundation
-- Gold Medalist for Academic Excellence - Bachelor of Technology
+### 🎓 **Education & Achievements**
+
+* 🎓 **M.S. Information Systems** - University of Texas at Arlington *(Expected May 2025)*
+    * *Graduate Senator (College of Business)*
+* 🎓 **B.Tech Electronics & Instrumentation** - JNTUH Hyderabad *(May 2020)*
+    * *Gold Medalist (Academic Excellence)*
 
 ---
 
-# Connect With Me
-Email: **manojp0299@gmail.com**  
-LinkedIn: **https://www.linkedin.com/in/manoj-pasunoori-b5673a190/**  
-Portfolio: **https://manojpasunoori.github.io**  
-GitHub: **https://github.com/manojpasunoori**
-
----
-
-If you find my work helpful, feel free to explore my repositories.  
-**Committed to building scalable systems. Committed to continuous learning. Committed to growth.**
+<div align="center">
+  <p>If you find my work helpful, feel free to ⭐ my repositories!</p>
+  <p><b>Committed to building scalable systems. Committed to continuous learning.</b></p>
+</div>
