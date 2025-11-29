@@ -63,7 +63,6 @@ I am a **Software Engineer** with **5+ years of experience** architecting scalab
 ---
 
 ### 🎓 **Education & Achievements**
-
 * 🎓 **M.S. Information Systems** - University of Texas at Arlington *(Expected May 2025)*
     * *Graduate Senator (College of Business)*
 * 🎓 **B.Tech Electronics & Instrumentation** - JNTUH Hyderabad *(May 2020)*
@@ -71,7 +70,18 @@ I am a **Software Engineer** with **5+ years of experience** architecting scalab
 
 ---
 
+### 🎓 ** Achievements**
+* Best Performer of the Month – TCS for accelerating cloud migration and reducing deployment time.
+* Reduced CI/CD deployment time by 40% via multi-stage Docker optimization and automated build workflows.
+* Developed internal DevOps automation suite enabling 60% faster onboarding and consistent environment provisioning.
+* Led migration of enterprise workloads to AWS, improving reliability, scalability, and security posture.
+* Implemented GitHub API automation used by engineering teams for insights into repo activity, deployments, and release velocity.
+* Deployed a zero-downtime Kubernetes release system, enhancing resilience for production workloads.
+
+---
+
 <div align="center">
   <p>If you find my work helpful, feel free to ⭐ my repositories!</p>
   <p><b>Committed to building scalable systems. Committed to continuous learning.</b></p>
 </div>
+
