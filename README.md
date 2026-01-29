@@ -14,7 +14,7 @@
 
 ### 🚀 **Professional Summary**
 
-I am a **Software Engineer** with **5+ years of experience** architecting scalable distributed systems and automating ML pipelines. I specialize in bridging the gap between application development and operational reliability using **Kubernetes, Terraform, and AWS/Azure**.
+I am a **Software Engineer** with **4+ years of experience** architecting scalable distributed systems and automating ML pipelines. I specialize in bridging the gap between application development and operational reliability using **Kubernetes, Terraform, and AWS/Azure**.
 
 * **Core Focus:** Building high-performance, fault-tolerant platforms.
 * **Background:** Proven track record at **TCS (Ericsson 5G)** and agile startups (**DoJoGa**).
