@@ -14,11 +14,15 @@
 
 ### 🚀 **Professional Summary**
 
-I am a **Software Engineer** with **4+ years of experience** architecting scalable distributed systems and automating ML pipelines. I specialize in bridging the gap between application development and operational reliability using **Kubernetes, Terraform, and AWS/Azure**.
+Software Engineer focused on distributed systems, cloud platforms, and scalable backend services.
 
-* **Core Focus:** Building high-performance, fault-tolerant platforms.
-* **Background:** Proven track record at **TCS (Ericsson 5G)** and agile startups (**DoJoGa**).
-* **Mission:** To reduce operational overhead and accelerate deployment cycles through DevOps and MLOps automation.
+Technologies:
+Java | Python | Kubernetes | Kafka | Spring Boot | FastAPI | PostgreSQL | AWS | Azure
+
+Projects:
+AeroStream – Airline operations intelligence platform
+AirOps360 – Airport ground operations management system
+Secure Kubernetes Platform – DevSecOps and GitOps infrastructure To reduce operational overhead and accelerate deployment cycles through DevOps and MLOps automation.
 
 ---
 
