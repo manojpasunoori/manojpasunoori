@@ -1,91 +1,144 @@
 <div align="center">
 
-# Hi there, I'm Manoj Pasunoori 👋
+# Manoj Pasunoori
+### Software Engineer — Distributed Systems & Cloud Platform
 
-### Software Engineer | Cloud-Native Systems, DevOps & AI
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=980&lines=Software+Engineer+building+distributed+systems%2C+event-driven+platforms%2C+and+cloud-native+infrastructure." alt="Typing introduction" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manoj-pasunoori-b5673a190/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-green?style=for-the-badge&logo=github)](https://manojpasunoori.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:manojp0299@gmail.com)
+<p>
+  <img src="https://img.shields.io/badge/Location-Arlington%2C%20Texas-0A66C2?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Education-MS%20Information%20Systems%20%E2%80%94%20UTA-E63946?style=for-the-badge" alt="Education" />
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/manoj-pasunoori-b5673a190"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:manojkumarpasunoori02@gmail.com"><img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
 ---
 
-### 🚀 **Professional Summary**
+## Engineering Focus
 
-Software Engineer focused on distributed systems, cloud platforms, and scalable backend services.
-
-Technologies:
-Java | Python | Kubernetes | Kafka | Spring Boot | FastAPI | PostgreSQL | AWS | Azure
-
-Projects:
-AeroStream – Airline operations intelligence platform
-AirOps360 – Airport ground operations management system
-Secure Kubernetes Platform – DevSecOps and GitOps infrastructure To reduce operational overhead and accelerate deployment cycles through DevOps and MLOps automation.
+- Distributed Systems
+- Backend Platform Engineering
+- Event-Driven Architecture
+- DevSecOps & Platform Reliability
+- Cloud-Native Infrastructure
+- High-Availability Systems
 
 ---
 
-### 🛠 **Tech Stack**
+## Tech Stack
 
-| **Domain** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
-| **Backend & APIs** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=flat) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) |
-| **CI/CD & Tools** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) |
-| **AI & ML** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EB981D?style=flat) ![MLOps](https://img.shields.io/badge/MLOps-Pipeline-blueviolet?style=flat) |
+### Languages
+![Java](https://img.shields.io/badge/Java-0A66C2?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0A66C2?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0A66C2?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0A66C2?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-0A66C2?style=flat-square&logo=gnubash&logoColor=white)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-E63946?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-E63946?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-E63946?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E63946?style=flat-square&logo=graphql&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-E63946?style=flat-square)
+![JWT/OAuth2](https://img.shields.io/badge/JWT%2FOAuth2-E63946?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-E63946?style=flat-square)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-0A66C2?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0A66C2?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0A66C2?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0A66C2?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0A66C2?style=flat-square&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-0A66C2?style=flat-square&logo=terraform&logoColor=white)
+
+### Data Systems
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E63946?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-E63946?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-E63946?style=flat-square&logo=redis&logoColor=white)
+
+### Streaming
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0A66C2?style=flat-square&logo=apachekafka&logoColor=white)
+
+### DevOps
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-E63946?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-E63946?style=flat-square&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-E63946?style=flat-square&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-E63946?style=flat-square&logo=argo&logoColor=white)
+![Argo Rollouts](https://img.shields.io/badge/Argo%20Rollouts-E63946?style=flat-square&logo=argo&logoColor=white)
+
+### Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-0A66C2?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-0A66C2?style=flat-square&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-0A66C2?style=flat-square&logo=elasticstack&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-0A66C2?style=flat-square&logo=dynatrace&logoColor=white)
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>AeroStream — Real-Time Airline Operations Intelligence Platform</h3>
+      <p>
+        Event-driven platform ingesting FAA and OpenSky flight data, modeling delay propagation through Kafka microservices, and exposing analytics via GraphQL APIs and a React dashboard.
+      </p>
+      <p><strong>Tech:</strong> Java 17, Spring Boot, FastAPI, Apache Kafka, PostgreSQL, MongoDB, React, Docker, Kubernetes, Prometheus, Grafana</p>
+      <p><a href="https://github.com/manojpasunoori/AeroStream"><strong>Repository ↗</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AirOps360 — Ground & Warehouse Operations Platform</h3>
+      <p>
+        Polyglot microservices platform simulating airport ground operations with baggage tracking, warehouse workflows, and crew scheduling across 9 services.
+      </p>
+      <p><strong>Tech:</strong> Java, C#, Python, Node.js (KOA), Kafka, PostgreSQL, Redis, MongoDB, Azure AKS</p>
+      <p><a href="https://github.com/manojpasunoori/AirOps360"><strong>Repository ↗</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Secure Kubernetes Microservices Platform</h3>
+      <p>
+        Production-grade DevSecOps platform delivering container security scanning, GitOps deployment workflows, and zero-drift Kubernetes environments.
+      </p>
+      <p><strong>Tech:</strong> Docker, Kubernetes, Helm, GitHub Actions, ArgoCD, Argo Rollouts, Trivy, SonarQube</p>
+      <p><a href="https://github.com/manojpasunoori/Secure-k8s-microservice-platform"><strong>Repository ↗</strong></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💼 **Experience**
+## Engineering Philosophy
 
-#### **Software Engineer** @ DoJoGa
-*(Jan 2025 – Present)*
-* Designed and deployed modular backend services using **FastAPI and Spring Boot**.
-* Orchestrated containerized deployments on **AWS & Azure Kubernetes Service (AKS)** using Helm charts.
-* Engineered CI/CD pipelines via **GitHub Actions**, reducing deployment lead time by **20%**.
-* Leveraged AI-driven coding assistants (Windsurf, Cursor) to automate testing, increasing code coverage by **15%**.
-
-#### **Systems Engineer (Ericsson 5G Project)** @ Tata Consultancy Services
-*(Nov 2020 – Aug 2023)*
-* Developed critical **FCAPS** modules for Ericsson’s 5G OSS/BSS systems.
-* Automated incident management via **ServiceNow APIs**, reducing manual overhead by **30%**.
-* Migrated legacy services to **Docker containers** on SUSE SLES, managed via Jenkins pipelines.
-* Implemented **Grafana/Prometheus** dashboards, improving issue detection time by **25%**.
+- Design for reliability first: graceful degradation, failure isolation, and clear operational playbooks.
+- Build for scale with stateless services, async messaging, and measurable performance targets.
+- Prioritize platform security through shift-left controls, least privilege, and policy-driven automation.
+- Treat observability as a core feature: metrics, logs, traces, and actionable SLOs.
+- Optimize developer velocity with repeatable CI/CD, infrastructure-as-code, and paved-road tooling.
 
 ---
 
-### 📂 **Featured Projects**
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **SafeDrive AI** | Real-time accident severity scoring system processing **1.5M+ records** with 99.9% uptime. | `FastAPI` `Docker` `Terraform` `AWS ECS` |
-| **Fake Job Detector** | Fraud detection NLP system achieving a **96% F1-score** using linguistic pattern analysis. | `XGBoost` `SHAP` `Scikit-Learn` `NLP` |
-| **Traffic Severity AI** | Weather-centric traffic analysis engine improving prediction accuracy by **12%**. | `Random Forest` `Geospatial Data` `Pandas` |
-
----
-
-### 🎓 **Education & Achievements**
-* 🎓 **M.S. Information Systems** - University of Texas at Arlington *(Expected May 2025)*
-    * *Graduate Senator (College of Business)*
-* 🎓 **B.Tech Electronics & Instrumentation** - JNTUH Hyderabad *(May 2020)*
-    * *Gold Medalist (Academic Excellence)*
-
----
-
-### 🎓 ** Achievements**
-* Best Performer of the Month – TCS for accelerating cloud migration and reducing deployment time.
-* Reduced CI/CD deployment time by 40% via multi-stage Docker optimization and automated build workflows.
-* Developed internal DevOps automation suite enabling 60% faster onboarding and consistent environment provisioning.
-* Led migration of enterprise workloads to AWS, improving reliability, scalability, and security posture.
-* Implemented GitHub API automation used by engineering teams for insights into repo activity, deployments, and release velocity.
-* Deployed a zero-downtime Kubernetes release system, enhancing resilience for production workloads.
-
----
+## GitHub Insights
 
 <div align="center">
-  <p>If you find my work helpful, feel free to ⭐ my repositories!</p>
-  <p><b>Committed to building scalable systems. Committed to continuous learning.</b></p>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manojpasunoori&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=0A66C2&icon_color=E63946&text_color=c9d1d9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojpasunoori&layout=compact&hide_border=true&bg_color=00000000&title_color=0A66C2&text_color=c9d1d9" alt="Top languages" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=manojpasunoori&bg_color=00000000&color=c9d1d9&line=0A66C2&point=E63946&area=true&hide_border=true" alt="Contribution graph" />
+
 </div>
 
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/manoj-pasunoori-b5673a190](https://linkedin.com/in/manoj-pasunoori-b5673a190)
+- Email: [manojkumarpasunoori02@gmail.com](mailto:manojkumarpasunoori02@gmail.com)
