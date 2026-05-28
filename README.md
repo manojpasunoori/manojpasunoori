@@ -1,7 +1,7 @@
 <div align="center">
 
 # Manoj Pasunoori
-### Software Engineer — Distributed Systems & Cloud Platform
+### Software Engineer — GenAI s & Software Development
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=980&lines=Software+Engineer+building+distributed+systems%2C+event-driven+platforms%2C+and+cloud-native+infrastructure." alt="Typing introduction" />
