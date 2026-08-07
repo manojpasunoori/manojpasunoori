@@ -1,19 +1,19 @@
 <div align="center">
 
 # Manoj Pasunoori
-### Software Engineer — GenAI s & Software Development
+### Software Engineer — GenAI & Distributed Systems
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=980&lines=Software+Engineer+building+distributed+systems%2C+event-driven+platforms%2C+and+cloud-native+infrastructure." alt="Typing introduction" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Location-Arlington%2C%20Texas-0A66C2?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Dallas%2C%20Texas-0A66C2?style=for-the-badge" alt="Location" />
   <img src="https://img.shields.io/badge/Education-MS%20Information%20Systems%20%E2%80%94%20UTA-E63946?style=for-the-badge" alt="Education" />
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/manoj-pasunoori-b5673a190"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/manoj-pasunoori-b5673a190"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="mailto:manojkumarpasunoori02@gmail.com"><img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -26,6 +26,7 @@
 - Distributed Systems
 - Backend Platform Engineering
 - Event-Driven Architecture
+- GenAI & ML Model Serving
 - DevSecOps & Platform Reliability
 - Cloud-Native Infrastructure
 - High-Availability Systems
@@ -35,44 +36,56 @@
 ## Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-0A66C2?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java%2017-0A66C2?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0A66C2?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-0A66C2?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A66C2?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A66C2?style=flat-square&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0A66C2?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-0A66C2?style=flat-square&logo=gnubash&logoColor=white)
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-E63946?style=flat-square&logo=springboot&logoColor=white)
+### Backend & Frontend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot%203-E63946?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-E63946?style=flat-square&logo=springsecurity&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-E63946?style=flat-square&logo=dotnet&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-E63946?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-E63946?style=flat-square)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E63946?style=flat-square&logo=graphql&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-E63946?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-E63946?style=flat-square)
+![React](https://img.shields.io/badge/React-E63946?style=flat-square&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-E63946?style=flat-square&logo=angular&logoColor=white)
 ![JWT/OAuth2](https://img.shields.io/badge/JWT%2FOAuth2-E63946?style=flat-square)
-![RBAC](https://img.shields.io/badge/RBAC-E63946?style=flat-square)
 
 ### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-0A66C2?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0A66C2?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0A66C2?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure%20%7C%20AKS-0A66C2?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-0A66C2?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0A66C2?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0A66C2?style=flat-square&logo=helm&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-0A66C2?style=flat-square&logo=terraform&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-0A66C2?style=flat-square)
 
-### Data Systems
+### Data & Streaming
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E63946?style=flat-square&logo=postgresql&logoColor=white)
+![Amazon Aurora](https://img.shields.io/badge/Amazon%20Aurora-E63946?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-E63946?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-E63946?style=flat-square&logo=redis&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-E63946?style=flat-square&logo=opensearch&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka%20%7C%20MSK-E63946?style=flat-square&logo=apachekafka&logoColor=white)
 
-### Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0A66C2?style=flat-square&logo=apachekafka&logoColor=white)
+### DevOps & CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0A66C2?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0A66C2?style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-0A66C2?style=flat-square&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-0A66C2?style=flat-square&logo=argo&logoColor=white)
+![Argo Rollouts](https://img.shields.io/badge/Argo%20Rollouts-0A66C2?style=flat-square&logo=argo&logoColor=white)
 
-### DevOps
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-E63946?style=flat-square&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-E63946?style=flat-square&logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-E63946?style=flat-square&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-E63946?style=flat-square&logo=argo&logoColor=white)
-![Argo Rollouts](https://img.shields.io/badge/Argo%20Rollouts-E63946?style=flat-square&logo=argo&logoColor=white)
+### Testing & Quality
+![JUnit 5](https://img.shields.io/badge/JUnit%205-E63946?style=flat-square&logo=junit5&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-E63946?style=flat-square)
+![Cypress](https://img.shields.io/badge/Cypress-E63946?style=flat-square&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-E63946?style=flat-square&logo=selenium&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-E63946?style=flat-square&logo=pytest&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-E63946?style=flat-square&logo=cucumber&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-E63946?style=flat-square&logo=sonarqube&logoColor=white)
 
 ### Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-0A66C2?style=flat-square&logo=prometheus&logoColor=white)
@@ -87,19 +100,19 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>AeroStream — Real-Time Airline Operations Intelligence Platform</h3>
+      <h3>AeroStream — Real-Time Flight Event Streaming & Delay Prediction</h3>
       <p>
-        Event-driven platform ingesting FAA and OpenSky flight data, modeling delay propagation through Kafka microservices, and exposing analytics via GraphQL APIs and a React dashboard.
+        Distributed event streaming platform ingesting simulated flight position, gate, and turnaround events for 1,000+ concurrent flights, with an ML delay-prediction service and Redis-backed caching for sub-100ms API reads.
       </p>
-      <p><strong>Tech:</strong> Java 17, Spring Boot, FastAPI, Apache Kafka, PostgreSQL, MongoDB, React, Docker, Kubernetes, Prometheus, Grafana</p>
+      <p><strong>Tech:</strong> Java 17, Spring Boot 3, Kafka, FastAPI, PostgreSQL, Redis, React, TypeScript, Docker, Kubernetes, GitHub Actions</p>
       <p><a href="https://github.com/manojpasunoori/AeroStream"><strong>Repository ↗</strong></a></p>
     </td>
     <td width="33%" valign="top">
-      <h3>AirOps360 — Ground & Warehouse Operations Platform</h3>
+      <h3>AirOps360 — Airline Ground Operations Management</h3>
       <p>
-        Polyglot microservices platform simulating airport ground operations with baggage tracking, warehouse workflows, and crew scheduling across 9 services.
+        Full-stack ground operations tool providing gate assignment, crew scheduling, and turnaround checklist workflows, with role-based access control and JWT authentication across services.
       </p>
-      <p><strong>Tech:</strong> Java, C#, Python, Node.js (KOA), Kafka, PostgreSQL, Redis, MongoDB, Azure AKS</p>
+      <p><strong>Tech:</strong> C#, ASP.NET Core, Angular, PostgreSQL, MongoDB, Docker, Azure DevOps, NUnit, Selenium</p>
       <p><a href="https://github.com/manojpasunoori/AirOps360"><strong>Repository ↗</strong></a></p>
     </td>
     <td width="33%" valign="top">
@@ -122,6 +135,27 @@
 - Prioritize platform security through shift-left controls, least privilege, and policy-driven automation.
 - Treat observability as a core feature: metrics, logs, traces, and actionable SLOs.
 - Optimize developer velocity with repeatable CI/CD, infrastructure-as-code, and paved-road tooling.
+
+---
+
+## Education
+
+- **M.S. Information Systems** — The University of Texas at Arlington *(2023 – 2025)*
+  Teaching Assistant, Python Programming · Student Senator, College of Business
+- **B.Tech, Electronics & Instrumentation Engineering** — JNTU *(2016 – 2020)* · GPA 8.9
+  Vice Chair, ACM Student Chapter · Chapter Lead, GeeksforGeeks VITS
+
+---
+
+## Certifications & Recognition
+
+- 🎓 **Microsoft Certified: Azure AI Engineer Associate**
+- 🎓 **Graduate Certificate in Business Analytics** — UT Arlington
+- 🎓 **HackerRank Certified Software Engineer** · Azure DevOps (Coursera)
+- ⭐ **TCS Star Performer of the Year** — technical delivery and engineering contributions
+- 🗳️ **Elected Student Senator**, UTA College of Business — representing 4,000+ students
+- 🎤 **Guest Speaker**, UTA Finance Society — decentralized applications, transaction analytics & ML
+- 🤝 Member, Dallas AI Community · Volunteer, UTA AI Symposium
 
 ---
 
